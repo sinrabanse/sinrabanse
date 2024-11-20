@@ -1,3 +1,3 @@
-Aspiring Data Analyst
+QA and Data projects
 
 
