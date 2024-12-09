@@ -1,3 +1,3 @@
-QA and Data projects
+QA and Data Analysis projects
 
 
